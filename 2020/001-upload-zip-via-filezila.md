@@ -9,7 +9,7 @@
     4. แตกไฟล์ zip ผ่าน unzipper.php
 
 #Screenshot
-    [Annotation-2020-03-26-211309.png](https://postimg.cc/JtLKG5ZK)
+    [![Annotation-2020-03-26-211309.png](https://i.postimg.cc/J7yFYTnw/Annotation-2020-03-26-211309.png)](https://postimg.cc/JtLKG5ZK)
     
 #Reference
     https://github.com/ndeet/unzipper
